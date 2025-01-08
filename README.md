@@ -1,4 +1,4 @@
-# Blogiz-Starter-Pack
+# Blog-Starter-Next.js
 
 ## Installation:
 
